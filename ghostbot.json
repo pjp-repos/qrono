@@ -1,0 +1,82 @@
+{
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "itm_QLmAyL0",
+            "name": "Monster Manor",
+            "capacity": 2,
+            "default_image": "https://qrono-images.s3.amazonaws.com/prod/acc_gLvpmWm/itm_QLmAyL0/IMG_6003.jpg",
+            "handle": "manor",
+            "description": "If you're not scared of a few monsters under your bed, stay with us 💕",
+            "metadata": {},
+            "timezone": "US/Eastern",
+            "price": "250.00",
+            "price_currency": "USD",
+            "booking_interval": "daily",
+            "default_available": true,
+            "address": {
+                "address": "248 McKibbin St.",
+                "city": "Brooklyn",
+                "state": "NY"
+            }
+        },
+        {
+            "id": "itm_qYB9vWB",
+            "name": "Super Scary Hotel",
+            "capacity": 1,
+            "default_image": "https://qrono-images.s3.amazonaws.com/prod/acc_gLvpmWm/itm_qYB9vWB/IMG_5977.jpg",
+            "handle": "scary",
+            "description": "It's a beautiful hotel but you'll be too scared to sleep!",
+            "metadata": {},
+            "timezone": "US/Eastern",
+            "price": "200.00",
+            "price_currency": "USD",
+            "booking_interval": "daily",
+            "default_available": true,
+            "address": {
+                "address": "794 Jest St.",
+                "city": "New York City",
+                "state": "NY"
+            }
+        },
+        {
+            "id": "itm_nDR9vCC",
+            "name": "Ghoul House",
+            "capacity": 1,
+            "default_image": "https://qrono-images.s3.amazonaws.com/prod/acc_gLvpmWm/itm_qYB9vWB/IMG_5977.jpg",
+            "handle": "ghoul",
+            "description": "We promise only friendly and hospitable ghouls live here, like Casper",
+            "metadata": {},
+            "timezone": "US/Pacific",
+            "price": "50.00",
+            "price_currency": "USD",
+            "booking_interval": "daily",
+            "default_available": true,
+            "address": {
+                "address": "4119 Park Blvd.",
+                "city": "Palo Alto",
+                "state": "CA"
+            }
+        },
+        {
+            "id": "itm_rER7vKQ",
+            "name": "Mansion on a Hill",
+            "capacity": 1,
+            "default_image": "https://qrono-images.s3.amazonaws.com/prod/acc_gLvpmWm/itm_qYB9vWB/IMG_5977.jpg",
+            "handle": "ghoul",
+            "description": "Lots of spooky things have happened in this mansion over our 400 year history. Will something spooky happen during your stay?",
+            "metadata": {},
+            "timezone": "US/Pacific",
+            "price": null,
+            "price_currency": "USD",
+            "booking_interval": "daily",
+            "default_available": true,
+            "address": {
+                "address": "847 San Jose Ave.",
+                "city": "San Francisco",
+                "state": "CA"
+            }
+        }
+    ]
+}
